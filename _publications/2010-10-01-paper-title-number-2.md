@@ -5,7 +5,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'We propose that feminine gay men are targets of essentialist beliefs that cast them as less natural and more entitative than masculine gay men, and that this pattern of low-naturalness/high-entitativity beliefs fuels increased sexual prejudice toward, and discomfort with, feminine gay men.'
 date: 2019-05-01
 venue: 'Psychology of Women Quarterly'
-<!---paperurl: 'http://emkiebel.github.io/files/paper2.pdf'--> 
+paperurl: 'http://emkiebel.github.io/files/paper2.pdf'
 citation: 'Kuchynka, S. L., Salomon, K., Bosson, J. K., El-Hout, M., Kiebel, E., Cooperman, C., & Toomey, R. (2017). &quot;Hostile and benevolent sexism and college women’s STEM outcomes.&quot; <i>Psychology of Women Quarterly1</i>,42(1).'
 ---
 'We examined associations of perceived ambivalent sexism with women’s outcomes in university Science, 
