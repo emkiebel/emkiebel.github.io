@@ -1,7 +1,7 @@
 ---
 title: " Hostile and benevolent sexism and college women’s STEM outcomes."
 collection: publications
-permalink: /publication/2017-12-12-Hostile-benevolent-sexism-STEM-outcomes-2
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'We propose that feminine gay men are targets of essentialist beliefs that cast them as less natural and more entitative than masculine gay men, and that this pattern of low-naturalness/high-entitativity beliefs fuels increased sexual prejudice toward, and discomfort with, feminine gay men.'
 date: 2019-05-01
 venue: 'Psychology of Women Quarterly'
