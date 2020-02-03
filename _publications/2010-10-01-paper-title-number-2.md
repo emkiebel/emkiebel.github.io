@@ -6,7 +6,7 @@ excerpt: 'We examined associations of perceived ambivalent sexism with women’s
 date: 2019-05-01
 venue: 'Psychology of Women Quarterly'
 paperurl: <!---'http://emkiebel.github.io/files/paper2.pdf'-->
-citation: 'Kuchynka, S. L., Salomon, K., Bosson, J. K., El-Hout, M., Kiebel, E., Cooperman, C., & Toomey, R. (2017). &quot;Hostile and benevolent sexism and college women’s STEM outcomes.&quot; <i>Psychology of Women Quarterly1</i>,42(1).'
+citation: 'Kuchynka, S. L., Salomon, K., Bosson, J. K., El-Hout, M., Kiebel, E., Cooperman, C., & Toomey, R. (2017). &quot;Hostile and benevolent sexism and college women’s STEM outcomes.&quot; <i>Psychology of Women Quarterly, 42 </i>(1).'
 ---
 'We examined associations of perceived ambivalent sexism with women’s outcomes in university Science, 
 Technology, Engineering, and Mathematics (STEM) courses as a function of their STEM identity. Women 
