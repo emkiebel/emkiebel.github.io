@@ -5,7 +5,7 @@ permalink: /publication/2015-10-01-paper-title-number-1
 excerpt: 'We propose that feminine gay men are targets of essentialist beliefs that cast them as less natural and more entitative than masculine gay men, and that this pattern of low-naturalness/high-entitativity beliefs fuels increased sexual prejudice toward, and discomfort with, feminine gay men.'
 date: 2019-05-01
 venue: 'Journal of Homosexuality'
-<!--- paperurl: 'http://emkiebel.github.io/files/paper1.pdf'--> 
+paperurl: 'http://emkiebel.github.io/files/paper1.pdf'
 citation: 'Kiebel, E. M., Bosson, J. K., & Caswell, T. A. (2019). &quot;Essentialist beliefs and sexual prejudice toward feminine gay men.&quot; <i>Journal of Homosexuality.</i>.'
 Stuff. 
 ---
