@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Elizabeth Kiebel / Personal Webpage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Elizabeth Kiebel"
+description              : &description "Elizabeth is a doctoral candidate in Cognition, Neuroscience, and Social Psychology at the University of South Florida"
 url                      : https://emkiebel.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "emkiebel/emkiebel.github.io"
