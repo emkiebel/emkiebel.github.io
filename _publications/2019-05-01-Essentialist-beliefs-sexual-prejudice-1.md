@@ -13,5 +13,5 @@ Stuff.
 
 <!--- [Download paper here](http://academicpages.github.io/files/paper1.pdf)--> 
 
-Recommended citation: Kiebel, E. M., Bosson, J. K., & Caswell, T. A. (2019). Essentialist beliefs and sexual prejudice toward feminine gay men. <i>Journal of Homosexuality.</i>.
+Recommended citation: Kiebel, E. M., Bosson, J. K., & Caswell, T. A. (2019). Essentialist beliefs and sexual prejudice toward feminine gay men. <i>Journal of Homosexuality.</i>
 
