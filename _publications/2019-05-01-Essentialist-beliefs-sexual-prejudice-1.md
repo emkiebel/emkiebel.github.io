@@ -1,7 +1,7 @@
 ---
 title: "Essentialist beliefs and sexual prejudice toward feminine gay men"
 collection: publications
-permalink: /publication/2019-05-01-Essentialist-beliefs-sexual-prejudice-1
+permalink: /publication/2015-10-01-paper-title-number-1
 excerpt: 'We propose that feminine gay men are targets of essentialist beliefs that cast them as less natural and more entitative than masculine gay men, and that this pattern of low-naturalness/high-entitativity beliefs fuels increased sexual prejudice toward, and discomfort with, feminine gay men.'
 date: 2019-05-01
 venue: 'Journal of Homosexuality'
